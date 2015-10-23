@@ -1,8 +1,13 @@
 body {
 	background-color: yellow;
+	backg
 }
 
 h1, p {
 	color: green;
+}
+
+#slogan {
+	font-weight: bold;
 }
 

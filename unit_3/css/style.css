@@ -1,0 +1,23 @@
+
+body {
+	
+	background-image: url("squirtphoto.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: helvetica;
+	color: blue;
+
+}
+
+
+
+h1, p {
+	color: purple;
+	text-align: center; 
+}
+
+#slogan {
+	font-weight: bold;
+	font-style: italic;
+}
+
